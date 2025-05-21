@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmettGabrielH
+- 👋 Hi, I’m @Emett
 - 👀 I’m interested in math, coding, physics.
 - 🌱 I’m currently learning new algorithms.
 
